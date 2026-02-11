@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "四季進行",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-02-11T11:13:47.734520Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "四季進行",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_四季進行_メガテラ・ゼロ.txt"
+    }
+  ]
+}
